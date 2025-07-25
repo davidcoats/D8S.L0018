@@ -7,10 +7,12 @@
   <PropertyGroup Label="Package">
     <Version>1.0.0</Version>
     <Authors>DCoats</Authors>
-    <Copyright>Copyright (c) David Coats 2025</Copyright>
-    <Description>XML library: Personal, Personal-opinioned, netstandard2.1.</Description>
+    <Copyright>Copyright © David Coats 2025</Copyright>
+    <Description>XML functions library: Personal, Personal-opinioned, netstandard2.1.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <RepositoryUrl>https://github.com/davidcoats/D8S.L0018.git</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\D8S.L0016\source\D8S.L0016.F000\D8S.L0016.F000.csproj" />
+  </ItemGroup>
 </Project>

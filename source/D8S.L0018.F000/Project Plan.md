@@ -1,5 +1,5 @@
-# D8S.L0018
-XML library: Personal, Personal-opinioned, netstandard2.1.
+# D8S.L0018.F000
+XML functions library: Personal, Personal-opinioned, netstandard2.1.
 
 
 ## Instance Set Descriptor
@@ -9,7 +9,7 @@ D8S: organization name
 Public: visibility
 netstandard2.1: target framework moniker
 
-CONSTRAINED: D8S.L0018
+LEAF: D8S.L0018
 
 XML: domain
 
